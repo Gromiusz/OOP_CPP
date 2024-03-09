@@ -1,0 +1,7 @@
+LunchBoxSeller Biala 3 24A 02-234 Warszawa 795-757-45-68 Polska
+PopularOffice Kazimierza 43 - 02-224 Warszawa 354-546-23-76 Polska
+apple [fruit] 3 2.999
+smallBox [box] 5 18.5
+orangeJuice [drink] 2 6.59
+cheese [diary] 1 10.20
+veganBox [box] 2 18.49
